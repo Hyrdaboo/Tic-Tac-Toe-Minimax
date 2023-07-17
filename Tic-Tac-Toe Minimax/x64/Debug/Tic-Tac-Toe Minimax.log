@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\Tic-Tac-Toe Minimax\Tic-Tac-Toe Minimax\main.cpp(75,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\source\repos\Tic-Tac-Toe Minimax\Tic-Tac-Toe Minimax\main.cpp(86,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Tic-Tac-Toe Minimax.vcxproj -> C:\Users\USER\source\repos\Tic-Tac-Toe Minimax\x64\Debug\Tic-Tac-Toe Minimax.exe
